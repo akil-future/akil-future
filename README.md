@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akil-Ahmed
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning fullstach software programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for junior software dev postion!
+- 📫 You can reach me through my email or lenkedin
 
 <!---
 akil-future/akil-future is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
