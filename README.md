@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akil-Ahmed
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning fullstach software programming.
-- 💞️ I’m looking for junior software dev postion!
+- 💞️ I’m looking for junior software dev position!
 - 📫 You can reach me through my email or lenkedin
 
 <!---
