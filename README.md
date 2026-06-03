@@ -1,16 +1,72 @@
-# 👋 Hi, I'm Akil!
+Hi, I’m Akil!
+🚀 About Me
+I’m a Senior Software Engineer with 5+ years of experience building scalable, cloud-native applications and platforms. I hold an MS in Software Engineering from the University of Minnesota and enjoy solving complex problems, designing resilient systems, and delivering impactful solutions.
+My work today focuses on cloud-native engineering, Kubernetes, and observability, and I’m actively expanding into AI/ML to stay ahead in modern software innovation.
+I thrive at the intersection of software engineering and platform engineering, building systems that are not only functional but also scalable, observable, and production-ready.
 
-## 🚀 About Me
-I’m a full-stack software engineer with over 4 years of hands-on experience, passionate about building impactful solutions with modern technologies. I hold an MS in Software Engineering from the University of Minnesota, and I thrive when tackling complex problems and collaborating with inspiring teams.
+🏢 Founder – ElevateYou Tech
+I also run a small tech initiative:
+👉 https://elevateyou.tech/
+At ElevateYou Tech, I help small businesses and individuals:
 
-Currently, I’m expanding my skills in AI/ML to supercharge my work and stay at the forefront of innovation. My engineering journey has been shaped by a love for clean architecture, scalable cloud microservices, and a relentless drive to solve challenges.
+Build modern, responsive websites
+Improve their technical presence
+Leverage technology to scale their business
 
-## 🛠️ Skills & Expertise
+This experience strengthens my ability to:
 
-- **Languages & Frameworks:** Java, Spring Boot, Angular  
-- **Architecture:** Cloud Microservices  
-- **Mindset:** Problem solver, lifelong learner  
-- **Collaboration:** Strong believer in teamwork and knowledge sharing
+Work directly with clients
+Deliver end-to-end solutions
+Combine technical execution with real business impact
+
+🛠️ Skills & Expertise
+💻 Languages & Frameworks
+
+Java, Spring Boot
+Angular, phyton
+
+☁️ Cloud & Platform Engineering
+
+Kubernetes (AKS)
+Helm (OCI-based packaging & deployment)
+ArgoCD (GitOps)
+harness
+Cloud-native microservices
+
+📊 Observability & Monitoring
+
+Prometheus
+Grafana
+OpenTelemetry (metrics, logs, traces)
+End-to-end observability architecture
+
+⚙️ DevOps & Infrastructure
+
+CI/CD pipelines
+Docker & containerization
+Infrastructure as Code (IaC)
+GitOps workflows
+
+🧠 Mindset
+
+Strong problem solver with system-thinking
+Passionate about clean, scalable architecture
+Lifelong learner exploring AI/ML and emerging tech
+
+
+🌱 Current Focus
+
+Building end-to-end observability platforms (Prometheus, Grafana, OpenTelemetry)
+Designing scalable Kubernetes-based systems
+Implementing GitOps with ArgoCD and Helm (OCI registries)
+Exploring AI/ML integration in real-world systems
+
+🤝 Collaboration
+I strongly believe in:
+
+Knowledge sharing
+Clean and maintainable design
+Ownership and teamwork
 
 ## 🌟 Featured Projects
 
