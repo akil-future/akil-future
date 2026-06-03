@@ -1,6 +1,7 @@
 Hi, I’m Akil!
 
 🚀 About Me
+
 I’m a Senior Software Engineer with 5+ years of experience building scalable, cloud-native applications and platforms. I hold an MS in Software Engineering from the University of Minnesota and enjoy solving complex problems, designing resilient systems, and delivering impactful solutions.
 My work today focuses on cloud-native engineering, Kubernetes, and observability, and I’m actively expanding into AI/ML to stay ahead in modern software innovation.
 I thrive at the intersection of software engineering and platform engineering, building systems that are not only functional but also scalable, observable, and production-ready.
